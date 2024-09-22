@@ -7,3 +7,6 @@ It is a website made with html and css from open source.
 
 ## Services
 ![Screenshot 2024-09-21 091046](https://github.com/user-attachments/assets/3fce7898-b5d6-4682-b01b-3f9b8d4f6fff)
+
+## Team Members
+![Screenshot 2024-09-22 095916](https://github.com/user-attachments/assets/76bd92c6-a901-44ef-930d-b7a9fdb879fa)
